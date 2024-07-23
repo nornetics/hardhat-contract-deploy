@@ -7,7 +7,7 @@ Feel free donate to my EVM address
 EVM :
 
 ```bash
-0x9902C3A98Df4b240ad5496cC26F89bAb8058f4aE
+0x1E748Df18b9f19728CEFb1D2E7CD8284A3B25497
 ```
 
 ## Steps
@@ -15,7 +15,7 @@ EVM :
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/hardhat-deploy-contract.git
+git clone https://github.com/nornetics/hardhat-contract-deploy
 ```
 
 ```
@@ -108,8 +108,5 @@ npm run set-message
 - push this project to your github and paste your repository link in testnet dashboard
 
 by :
-github : [Mnuralim](https://github.com/Mnuralim)
-twitter : @Izzycracker04
-telegram : @fitriay19
+github : [nornetics](https://github.com/nornetics)
 
-//0xf1f0C7Bf19ee4E196C0213cEE1002e9a5fadff62//
