@@ -1,4 +1,4 @@
-# Swisstronik Tesnet Techinal Task 1
+# Swisstronik Task 1 (Deploy Simple Contract Using Hardhat)
 
 link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
